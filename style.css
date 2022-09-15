@@ -1,0 +1,43 @@
+html, body {
+ font-family : Arial;
+  min-width : 400px;
+}
+
+
+input{
+  width: 100%;
+  padding : 10px;
+  box-sizing : border-box;
+  border : 1.5px solid #8ad062;
+  margin-bottom : 5px;
+}
+
+
+button{
+  padding : 10px 20px;
+  background: #8ad062;
+  border : none;
+  color : white;
+  font-weight : bold;
+  border : 1px solid #8ad062;
+}
+
+#delete-btn{
+  background: white ;
+  color : #8ad062;
+}
+
+ul{
+  margin-top: 20px;
+  list-style : none;
+  padding : 0;
+}
+
+li{
+  margin-top : 5px;
+}
+
+
+li a{             
+  color : #8ad062;
+}
